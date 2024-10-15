@@ -5,7 +5,7 @@
 #   adapted  by aja 06/98
 #   modified by aja 01/00
 #   rewritten in bash by eh3 08/03
-
+# 
 #  Explain usage
 usage()  {
 cat <<EOF
@@ -15,7 +15,6 @@ Usage: "$0" [OPTIONS]
 
     -help | --help | -h | --h
 	  Print this help message and exit.
-
     -tap | --tap
           Generate a Makefile for a Tapenade build
 
