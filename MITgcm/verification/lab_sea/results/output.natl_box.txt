@@ -1,1 +1,0 @@
-../../natl_box/results/output.natl_box.txt
